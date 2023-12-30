@@ -13,7 +13,7 @@ var typed = new Typed(".typing", {
     strings: [
       "",
       "Web",
-      "Gamer"
+      "Gamer",
       "Web Developer",
       "Python Programmer",
       "Student",

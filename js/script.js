@@ -12,7 +12,7 @@ Copyright: 2023 ©MdRasen
 var typed = new Typed(".typing", {
     strings: [
       "",
-      "Web",
+      
       "Gamer",
       "Web Developer",
       "Python Programmer",

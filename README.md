@@ -1,5 +1,3 @@
-import markdown
-
 <h1 align="center">Hi 👋, I'm Sanyam</h1>
 <h3 align="center">Crafting Code with Creativity</h3>
 
@@ -39,3 +37,4 @@ import markdown
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyam1427&show_icons=true&locale=en" alt="sanyam1427" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam1427&" alt="sanyam1427" /></p>
+
